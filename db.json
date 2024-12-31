@@ -1,0 +1,62 @@
+{
+  "uploadVideos": [
+    {
+      "id": "dbb8",
+      "caption": "Xmas songs",
+      "imgUrl": "https://images.indianexpress.com/2024/12/Merry-Christmas-2024-Top-Songs-Merry-Christmas-2024-Here-are-10-songs-one-must-tune-into-this-holiday-season.-Source-Canva.jpg?w=414",
+      "youtubeLink": "https://www.youtube.com/embed/_-E6Ts_ZXy0"
+    },
+    {
+      "id": "9da1",
+      "caption": "Onam songs",
+      "imgUrl": "https://s.saregama.tech/image/c/fw_485/2/30/87/onam-songs_1440x1440_1663146229.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/iPcVD_j5uIY"
+    }
+  ],
+  "categories": [
+    {
+      "id": "bc9a",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "a340",
+          "caption": "Marco",
+          "imgUrl": "https://images.filmibeat.com/img/popcorn/movie_posters/marco-20240923111718-22201.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/5dy3azady4w"
+        }
+      ]
+    },
+    {
+      "id": "b509",
+      "categoryName": "Tutorials",
+      "allVideos": [
+        {
+          "id": "0b08",
+          "caption": "CSS",
+          "imgUrl": "https://i.ytimg.com/vi/qKoajPPWpmo/sddefault.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/wRNinF7YQqQ"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "9120",
+      "caption": "CSS",
+      "youtubeLink": "https://www.youtube.com/embed/wRNinF7YQqQ",
+      "timeStamp": "12/19/2024, 1:28:41 PM GMT+5:30"
+    },
+    {
+      "id": "32e3",
+      "caption": "Fighter",
+      "youtubeLink": "https://www.youtube.com/embed/6amIq_mP4xM",
+      "timeStamp": "12/23/2024, 12:10:50 PM GMT+5:30"
+    },
+    {
+      "id": "2b8d",
+      "caption": "CSS",
+      "youtubeLink": "https://www.youtube.com/embed/wRNinF7YQqQ",
+      "timeStamp": "12/27/2024, 12:53:26 PM GMT+5:30"
+    }
+  ]
+}
